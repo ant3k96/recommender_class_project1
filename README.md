@@ -16,7 +16,7 @@ After application opens insert this line:
 
 	2. Make sure you're in the repository main folder. Run the following command:
 			
-		conda env create --name rs-proj-env -f environment.yml
+		<pre>conda env create --name rs-proj-env -f environment.yml</pre>
 
 3. Activate just created environment with the following command:
 
@@ -35,5 +35,6 @@ After application opens insert this line:
 7. In Jupyter Notebook open project1_recommender_and_evaluation.ipynb 
 
 8. In tab menu select "Cell" and hit "Run all". Wait for the process to finish. 
-   <i> NOTE: project is not finished so some errors will be displayed</i>
+
+<i> NOTE: project is not finished so some errors will be displayed</i>
 
