@@ -8,7 +8,7 @@
  1. Create a folder on your local machine where you want stash this project. Open this folder and right click in it. From scroll menu select Git Bash here. 
 After application opens insert this line:
 
-<pre>git clone https://github.com/ant3k96/recommender_class_project1</pre>
+<pre>git clone https://github.com/ant3k96/recommender_class_project1.git</pre>
 
 2. Prepare your conda environment (instructions given for Windows, but it should be similar on other systems):
 
